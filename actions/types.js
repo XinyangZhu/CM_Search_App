@@ -1,0 +1,4 @@
+export const SET_GENDER = 'SET_GENDER';
+export const FETCH_OCCUPATIONS = 'FETCH_OCCUPATIONS';
+export const ADD_FAVORATE = 'ADD_FAVORATE';
+export const REMOVE_FAVORATE = 'REMOVE_FAVORATE';

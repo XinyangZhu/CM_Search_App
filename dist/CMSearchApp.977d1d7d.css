@@ -1,0 +1,61 @@
+/*body {
+  background-color: #FFFFFF;
+}*/
+
+/*.prev, .next {
+  cursor: pointer;
+  position: absolute;
+  top: 45%;
+  padding: 6px;
+  color: #8A95AD;
+  font-weight: bold;
+  font-size: 24px;
+  width: 36px;
+  height: 36px;
+  background-color: rgba(0,0,0,0.5);
+  border-radius: 50%;
+  transition: 0.6s ease;
+  -webkit-transition: 0.6s ease;
+  -moz-transition: 0.6s ease;
+}
+
+.next {
+  right: 2%;
+}
+
+.prev:hover, .next:hover {
+  transform: scale(1.5);
+  color: rgba(255, 255, 255, 0.4);
+}
+
+.bottom-right {
+  position: absolute;
+  bottom: 20px;
+  right: 29px;
+}
+
+.numLike {
+  padding-left: 3px;
+  color: white;
+  font-weight: 400;
+}
+
+.heart {
+  color: red;
+}
+
+#preview {
+  height: 50%;
+  width: 100%;
+  background-color: #8A95AD;
+  display: none;
+  position: relative;
+  background-position: 100% 100%;
+  background-size: cover;
+}
+
+#images {
+  position: relative;
+  top: 80px;
+}
+*/
